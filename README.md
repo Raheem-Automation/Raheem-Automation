@@ -32,7 +32,6 @@ In my recent automation work, I used Playwright to:
 
 📈 **Why you should learn Playwright?**
 It’s modern, fast, developer-friendly, and widely adopted in the industry.
-
 If you're in QA Automation or planning to switch, **Playwright is definitely worth mastering!**
 
 #Playwright #AutomationTesting #QA #SDET #SoftwareTesting #CICD #TestingTools
